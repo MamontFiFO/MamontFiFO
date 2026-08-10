@@ -1,7 +1,7 @@
-## Я оболтус 👋
+## <div align="center">Всем сваги 👋</div>
 
 <div align="center">
-   <img src="https://media1.tenor.com/m/gIKfNZd5YkQAAAAd/pudge-dance.gif"  alt="pudge"  />
+   <img src="https://media1.tenor.com/m/gIKfNZd5YkQAAAAd/pudge-dance.gif"  alt="pudge" style="transform: rotate(45deg);" />
 
 </div>
 <!--
